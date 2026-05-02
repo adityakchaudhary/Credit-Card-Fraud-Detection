@@ -87,15 +87,17 @@ Models were evaluated using:
 - Seaborn  
 
 ---
-
 ## 📂 Project Structure  
+
+```
 Credit-Card-Fraud-Detection/
 │
-├── data/ # Dataset or dataset link
-├── notebooks/ # Jupyter notebook files
-├── src/ # (Optional) Python scripts
-├── README.md
-└── requirements.txt
+├── data/                # Dataset or dataset link  
+├── notebooks/           # Jupyter notebook files  
+├── src/                 # (Optional) Python scripts  
+├── README.md  
+└── requirements.txt  
+```
 
 
 ---
